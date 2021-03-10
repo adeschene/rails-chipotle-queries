@@ -16,3 +16,5 @@ The csv file for the data can be found [here](https://github.com/adeschene/rails
 Scripts that were written to answer the questions can be found [here](https://github.com/adeschene/rails-chipotle-queries/tree/main/lib/assets/scripts).
 
 Chipotle data source: https://github.com/thechaudharysab/Chipotle-data_analysis-example
+
+If you want to run these scripts yourself, the easiest way would likely be to just download chipotle.csv, seed.rb, and the scripts folder and then create a new rails application to test them on.
