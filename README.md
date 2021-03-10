@@ -29,8 +29,8 @@ The code that was used to get this info:
 ```
 Order.group(:item_name).sum(:item_price).to_a.map{
   |name_price| "#{name_price[0]},$%0.2f,%0.2f%%" % [
-    pair[1].to_f / 100.0,
-    (pair[1].to_f / 3450016) * 100
+    name_price[1].to_f / 100.0,
+    (name_price[1].to_f / 3450016) * 100
 ]}
 
 => ["name,$sales,percentage%","name,$sales,percentage%",...]
