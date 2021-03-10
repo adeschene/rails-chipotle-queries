@@ -11,8 +11,8 @@ Which is the most popular kind of meat? | "Chicken" |
 Which kind of canned soda is most popular? | "Coca Cola" |
 What were gross sales for drinks/food? | 1401.71 / 33098.45 |
 
-The csv file for the data can be found [here](https://github.com/adeschene/rails-chipotle-queries/blob/main/lib/assets/chipotle.csv)
+The csv file for the data can be found [here](https://github.com/adeschene/rails-chipotle-queries/blob/main/lib/assets/chipotle.csv).
 
-Scripts that were written to answer the questions can be found here.
+Scripts that were written to answer the questions can be found [here](https://github.com/adeschene/rails-chipotle-queries/tree/main/lib/assets/scripts).
 
 Chipotle data source: https://github.com/thechaudharysab/Chipotle-data_analysis-example
